@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import Produts from "./products/page";
 
 export default function Home() {
   return (
